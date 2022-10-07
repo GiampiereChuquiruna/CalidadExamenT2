@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Auto detect text files and perform LF normalizat
-=======
-node_modules/
->>>>>>> 7fd6b57ddfe5a3d72cb5d4373591098c7553ea07
+# Auto detect text files and perform LF normalization
+* text=auto
